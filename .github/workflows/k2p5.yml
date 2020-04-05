@@ -6,9 +6,9 @@ on:
     types: [published]
   push:
     tags:
-    - 'v*'
-    branches: 
-      - 0305
+    - '305'
+  #  branches: 
+   #   - 0305
 #  schedule:
 #    - cron: 0 8 * * 5
   watch:
